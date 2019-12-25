@@ -1,5 +1,5 @@
 {
-  "name": "react-use-hooks",
+  "name": "react-hooks-expand",
   "version": "1.0.0",
   "description": "use hooks setState like class components setState",
   "main": "index.js",
