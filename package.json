@@ -1,0 +1,22 @@
+{
+  "name": "react-use-hooks",
+  "version": "1.0.0",
+  "description": "use hooks setState like class components setState",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengnan123/useStateHasCallback.git"
+  },
+  "author": "dany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengnan123/useStateHasCallback/issues"
+  },
+  "homepage": "https://github.com/dengnan123/useStateHasCallback#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
